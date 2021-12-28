@@ -1,5 +1,6 @@
 #include<iostream>
 using namepsace std;
+//function to add two numbers
 int add(int a, int b)
 {
 	return a+b;
@@ -13,6 +14,7 @@ int main()
     	cout<<"Addition: "<<add(a,b)<<endl;
     	cout<<"Subtraction: "<<add(a,b)<<endl;
 }
+//function to subtract two numbers
 int subtraction(int a, int b)
 {
 	return a-b;
