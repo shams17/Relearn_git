@@ -1,6 +1,6 @@
 #include<iostream>
 using namepsace std;
-//function to add two numbers
+//Adding 2 numbers
 int add(int a, int b)
 {
 	return a+b;
