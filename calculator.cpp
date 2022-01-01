@@ -1,11 +1,5 @@
 //Basic Calculator APP Which performs typical calcualtor applications
-#include<iostream>
-using namepsace std;
-//Adding 2 numbers
-int add(int a, int b)
-{
-	return a+b;
-}
+#include "helperAddition.h"
 int subtraction(int a, int b);
 int multiply(int a, int b);
 double divide(int a, int b);
