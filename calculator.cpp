@@ -1,3 +1,4 @@
+//Basic Calculator APP Which performs typical calcualtor applications
 #include<iostream>
 using namepsace std;
 //Adding 2 numbers
