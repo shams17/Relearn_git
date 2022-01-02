@@ -1,5 +1,5 @@
 Header:
 creating a basic calculator
 Body:
-create a calculator which perform Addition, Subtraction, Multiplication.
-Add line to test Rebase
+create a calculator which perform Addition, Subtraction, Multiplication, Division.
+TODO: ADD more operations like percentage and decimal to fraction converter etc
